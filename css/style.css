@@ -176,6 +176,10 @@ section {
           transform: rotate(180deg);
 }
 
+.allert {
+  color: #eacf4f;
+}
+
 .home {
   margin-top: 7rem;
   background: url(../images/home-bg.png) no-repeat;
